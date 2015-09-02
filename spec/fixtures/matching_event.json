@@ -1,0 +1,14 @@
+{
+	"client_id":"108104XXXX",
+	"client_version":"1.0.0",
+	"event":"store.order.pay",
+	"timestamp":1440016771,
+	"data": {
+		"user_id":"5530XXXX",
+		"site_id":"373917798919XXXXX",
+    	"order_id":"1826571643",
+    	"order_billing_id":1,
+		"order_billing_transaction_id":1
+	},
+	"hmac":"XXXXXXXX"
+}

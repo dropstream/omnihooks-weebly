@@ -1,0 +1,11 @@
+{
+	"client_id":"108104XXXX",
+	"client_version":"1.0.0",
+	"event":"app.uninstall",
+	"timestamp":1440016771,
+	"data": {
+		"user_id":"5530XXXX",
+		"site_id":"373917798919XXXXX"
+	},
+	"hmac":"XXXXXXXX"
+}
